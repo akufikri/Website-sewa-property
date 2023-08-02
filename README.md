@@ -1,3 +1,5 @@
+<img width="1440" alt="Screen Shot 2023-08-02 at 17 03 03" src="https://github.com/akufikri/Website-sewa-property/assets/108182945/95d8f9b8-cd6c-4167-bda5-2369afb5edf1">
+![Uploading Screen Shot 2023-08-02 at 17.02.50.png…]()
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +66,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![Uploading Screen Shot 2023-08-02 at 17.02.41.png…]()
+
+![Uploading Screen Shot 2023-08-02 at 16.57.32.png…]()
+
+
